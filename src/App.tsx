@@ -13,6 +13,7 @@ const price2 = '$49.99';
 function App() {
 
   // adding comment
+  // adding another comment
 
   return (
     <>
